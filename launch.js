@@ -48,3 +48,4 @@ https.get("https://mrodevicemgr.officeapps.live.com/mrodevicemgrsvc/api/v2/C2RRe
 }).on("error", () => {
     print(getBranch, getFFN, getBuild);
 });
+
